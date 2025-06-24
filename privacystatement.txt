@@ -1,0 +1,8 @@
+Privacy Statement
+SoftNest XP is a locally hosted application launcher that does not collect, transmit, or store any personal data.
+- No telemetry or tracking technologies are included.
+- No external network requests or APIs are used.
+- All application downloads are self-contained and stored locally.
+- User interactions are not logged or analyzed in any form.
+This platform is designed with user privacy and system safety as top priorities. SoftNest XP provides a standalone experience that runs independently of internet connectivity after initial installation.
+For questions or security inquiries, contact the project maintainer via the support page.
